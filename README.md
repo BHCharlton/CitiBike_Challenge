@@ -24,4 +24,6 @@ After making some data updates with Pandas, Tableau will be used to create visua
 ### Rider count based of type of customer:
 ![Citibike 5](https://user-images.githubusercontent.com/93561592/161362944-2f91036c-0217-4319-b9c0-07bd3d95b8bd.PNG)
 
+You may follow [this link](https://public.tableau.com/app/profile/ben.charlton/viz/CitibikeChallenge_16483418008410/Story1) to view these images in Tableau
+
 ## Summary
