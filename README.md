@@ -9,6 +9,19 @@ After making some data updates with Pandas, Tableau will be used to create visua
 * The number of bike trips for each type of user and gender for each day of the week
 
 ## Results
+### Checkout times for all users:
+![Citibike 1](https://user-images.githubusercontent.com/93561592/161362902-efa36897-1c2e-40ca-8b2b-2e82645e6a65.PNG)
 
+### Checkout times by gender:
+![Citibike 2](https://user-images.githubusercontent.com/93561592/161362907-41d3df36-4d9f-4dc5-8938-76636b5e1cb7.PNG)
+
+### Rider count each weekday for all users:
+![Citibike 3](https://user-images.githubusercontent.com/93561592/161362915-b829b0db-4c49-4281-a17c-d963304a9670.PNG)
+
+### Rider count each weekday by gender:
+![Citibike 4](https://user-images.githubusercontent.com/93561592/161362930-64a3904b-63e8-4aaf-8139-7fc8e4685b81.PNG)
+
+### Rider count based of type of customer:
+![Citibike 5](https://user-images.githubusercontent.com/93561592/161362944-2f91036c-0217-4319-b9c0-07bd3d95b8bd.PNG)
 
 ## Summary
